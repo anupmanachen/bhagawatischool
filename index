@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shree Bhagawati Secondary School</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f9ff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #00539C;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #003366;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 15px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Shree Bhagawati Secondary School</h1>
+  <p>Shankharapur Municipality, Kathmandu</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">About Us</a>
+  <a href="#">Academics</a>
+  <a href="#">Admission</a>
+  <a href="#">Contact</a>
+</nav>
+
+<main>
+  <h2>Welcome to Our School</h2>
+  <p>
+    Shree Bhagawati Secondary School is a reputed government school located in Shankharapur Municipality. 
+    We provide quality education from ECD to Grade 12 and take pride in our academic achievements.
+  </p>
+
+  <h3>Latest News</h3>
+  <ul>
+    <li>Admission Open for Academic Year 2082</li>
+    <li>Grade 10 Final Exam Results Published</li>
+    <li>Parent-Teacher Meeting Scheduled for Ashar 5</li>
+  </ul>
+</main>
+
+<footer>
+  <p>© 2025 Shree Bhagawati Secondary School | Contact: 01-XXXXXXX</p>
+</footer>
+
+</body>
+</html>
